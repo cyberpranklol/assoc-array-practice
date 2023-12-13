@@ -5,7 +5,7 @@
 
     $osoba = [
         "ime" => "Stefan",
-        "prezime" => "Kljajic"
+        "prezime" => "Kljajic "
     ];
     
     echo $osoba ["ime"];
